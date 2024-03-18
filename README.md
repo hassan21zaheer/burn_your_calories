@@ -9,5 +9,4 @@ and effort you need to burn them through various exercises.
 Set personalized goals, track progress, and access educational
 resources for a balanced lifestyle. 
 
-
-# burn_your_calories
+![burnyourcal](https://github.com/hassan21zaheer/burn_your_calories/assets/64303038/abab7798-4a45-4973-9a8e-e78b8b9f8150)
